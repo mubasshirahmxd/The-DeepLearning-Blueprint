@@ -36,6 +36,7 @@ This repository is designed as a **complete learning + portfolio showcase** for 
 ---
 
 ## 📂 Repository Structure
+```
 
 The-DeepLearning-Blueprint/
 │
@@ -72,9 +73,7 @@ The-DeepLearning-Blueprint/
 │ └── 02_BERT_Chatbot/
 │
 └── .gitattributes
-
-yaml
-Copy code
+```
 
 ---
 
